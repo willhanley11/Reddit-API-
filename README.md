@@ -1,7 +1,7 @@
-# Reddit-API-
+# Reddit_API
 Classification model to detect sarcasm and differentiate subreddits r/TheOnion and r/NotTheOnion
 
-***Project Summary***
+**Project Summary**
 
 This project used a binary classification model to differentiate posts from two different subreddits: r/TheOnion and r/NotTheOnion. While I expect most are familiar with the satirical news site, The Onion, r/NotTheOnion contains news that seems like it could be from The Onion, but in fact is actually truthful news. The goal was to create a model that would read a post from one of the two subreddits, and be able to tell from which subreddit it came. It has been said that computers are not a good judge for sarcasm, so I was eager to find out if that was actually the case.
 
