@@ -1,4 +1,4 @@
-# Reddit_API
+# Reddit Classificaion Model
 Classification model to detect sarcasm and differentiate subreddits r/TheOnion and r/NotTheOnion
 
 **Project Summary**
